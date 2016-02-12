@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dearistotelisez00thomgoog_0115.png"; bbox 0 0 2934 5076; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 344 1765 1069 1878">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 344 1765 1069 1878">
+     <span class='ocr_line' id='line_1_1' title="bbox 344 1765 1069 1878; baseline 0.003 -31"><span class='ocrx_word' id='word_1_1' title='bbox 344 1767 675 1878; x_wconf 74' lang='lat' dir='ltr'>hoohwiirdigen</span> <span class='ocrx_word' id='word_1_2' title='bbox 705 1765 845 1850; x_wconf 83' lang='lat' dir='ltr'><strong>Herm</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 876 1767 1069 1850; x_wconf 81' lang='lat' dir='ltr'><strong>Direetor</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 433 2163 983 2329">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 433 2163 983 2329">
+     <span class='ocr_line' id='line_1_2' title="bbox 433 2163 983 2329; baseline 0.004 -3"><span class='ocrx_word' id='word_1_4' title='bbox 433 2195 543 2327; x_wconf 77' lang='lat' dir='ltr'><strong>nr.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 567 2163 651 2328; x_wconf 81' lang='lat' dir='ltr'><strong>&#39;z.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 698 2197 983 2329; x_wconf 59' lang='lat' dir='ltr'>mankel</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 614 2456 793 2520">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 614 2456 793 2520">
+     <span class='ocr_line' id='line_1_3' title="bbox 614 2456 793 2520; baseline 0.006 -3"><span class='ocrx_word' id='word_1_7' title='bbox 614 2456 646 2517; x_wconf 79' lang='lat' dir='ltr'><strong>ln</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 673 2457 793 2520; x_wconf 75' lang='lat' dir='ltr'><strong>Bmlu</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1472 5076">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1472 5076">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1472 5076; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1472 5076; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
